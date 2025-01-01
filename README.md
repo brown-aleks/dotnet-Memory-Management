@@ -1,3 +1,7 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="../styles.css">
+</head>
+
 # dotnet-Memory-Management
 
 <div class="note">
