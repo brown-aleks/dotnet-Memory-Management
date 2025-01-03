@@ -152,7 +152,7 @@ int fun2(int n)
     <p class="left-style" id="f-1-3a"><i><b>Рисунок 1-3a.</b> Стек и области памяти кода – в момент перед вызовом функции fun1 из <a href="#l-1-2">листинга 1-2</a></i></p>
     <img src="../Images/figures/1-3a.png" alt="Рисунок 1.3a">
 
-  ![Рисунок 1.3a](../Images/figures/1-3a.png)
+  ![Рисунок 1.3a](/Images/figures/1-3a.png)
 
   </li>
 
